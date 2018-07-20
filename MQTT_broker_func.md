@@ -1,6 +1,6 @@
 开源MQTT Broker对比（ActiveMQ，EQM，Mosquitto）
 
-|          | ActiveMQ | EQM  | Mosquitto |
+|          | ActiveMQ | EMQ  | Mosquitto |
 |:-------- |:--------:|:----:|:---------:|
 | License  | 开源| 开源版+商业版| 开源|
 | 公司／社区    | Apache | EMQ | Eclipse |
